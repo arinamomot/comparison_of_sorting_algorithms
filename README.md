@@ -1,5 +1,5 @@
 # Semestrální práce PJC "Porovnání řadicích algoritmů".  
-Сomparison of sorting algorithms
+Сomparison of sorting algorithms - сommand line sorting program
 
 ## Třídící program příkazového řádku
 je nástroj příkazového řádku pro třídění objektů _jakéhokoli datového typu_ (string, char, int, double). Program obsahuje jednovláknovou i vícevláknovou implementaci.
